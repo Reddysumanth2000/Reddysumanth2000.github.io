@@ -1,7 +1,7 @@
 const flashcards = [
-    {front:"Images/Slide1.PNG",back:"Images/Slide2.PNG"},
-    {front:"Images/Slide3.PNG",back:"Images/Slide4.PNG"},
-    {front:"Images/Slide5.PNG",back:"Images/Slide6.PNG"},
+    {front:"Images/Slide1.png",back:"Images/Slide2.png"},
+    {front:"Images/Slide3.png",back:"Images/Slide4.png"},
+    {front:"Images/Slide5.png",back:"Images/Slide6.png"},
     {front:"Images/Slide7.png",back:"Images/Slide8.png"},
     {front:"Images/Slide9.png",back:"Images/Slide10.png"},
     {front:"Images/Slide11.png",back:"Images/Slide12.png"},
